@@ -8,7 +8,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 
 ### 🤖 Linguagens e Ferramentas
  
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,jupyter,dbtlabs,dbeaver,postgres,duckdb,mariadb,azure,git,airflow,docker,streamlit,plotly,figma)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,jupyter,dbtlabs,dbeaver,postgres,duckdb,mariadb,azure,git,airflow,docker,metabase,tableau,streamlit,figma)
 
  ### 🛠 Meus principais projetos
 | Projeto | Tech Stack | Descrição |
